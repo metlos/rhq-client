@@ -5,7 +5,7 @@ This is a very simple demonstration of a standalone Java application talking to 
 == Usage
 
 --
-. Edit 'src/main/resource/jboss-ejb-client.properties' to specify the IP and port your RHQ server.
+. Edit 'src/main/resource/jboss-ejb-client.properties' to specify the IP and port of your RHQ server.
 . Execute
 [source,bash]
 mvn clean package
