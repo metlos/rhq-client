@@ -1,0 +1,11 @@
+== RHQ Client
+
+This project contains remote EJB clients interfacing with RHQ server
+
+== Clients
+
+--
+. link:tree/master/java[Java]
+. link:tree/master/scala[Scala]
+--
+

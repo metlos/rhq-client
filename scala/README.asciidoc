@@ -1,6 +1,6 @@
 == RHQ Client
 
-This is a very simple demonstration of a standalone Java application talking to RHQ server through its remote EJB API.
+This is a very simple demonstration of a standalone Scala application talking to RHQ server through its remote EJB API.
 
 == Usage
 
