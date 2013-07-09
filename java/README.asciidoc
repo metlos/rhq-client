@@ -1,13 +1,6 @@
 == RHQ Client
 
-This project contains remote EJB clients interfacing with RHQ server
-
-== Clients
-
---
-. link:../../tree/master/java[Java]
-. link:../../tree/master/scala[Scala]
---
+This is a very simple demonstration of a standalone Java application talking to RHQ server through its remote EJB API.
 
 == Usage
 
