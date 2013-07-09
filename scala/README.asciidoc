@@ -1,0 +1,14 @@
+== RHQ Client
+
+This is a very simple demonstration of a standalone Java application talking to RHQ server through its remote EJB API.
+
+== Usage
+
+--
+. Edit 'src/main/resource/jboss-ejb-client.properties' to specify the IP and port of your RHQ server.
+. Execute
+[source,bash]
+mvn clean package
+mvn exec:java
+--
+
